@@ -1,4 +1,4 @@
-iDog is a free public database for homeless dogs in Sofia, Bulgaria. It contains photos of each dog, geographic locations of the dog's territory, information about the dog's gender and whether it is castrated or not.
+iDog is a free public database for homeless dogs in Sofia, Bulgaria. It contains photos of each dog, geographic locations of the dog's territory, information about the dog's gender and whether it is spayed/neutered or not.
 
 This repository contains a xcode project for an iPhone app to connect to this database and query it for information, or add new dogs to it straight from the application.
 
